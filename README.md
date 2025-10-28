@@ -6,22 +6,21 @@ Currently studying **Information Technologies**. Always looking to collaborate o
 
 ---
 
-### 🧠 Interests
-- DevOps, CI/CD pipelines, and Infrastructure as Code  
-- Cloud platforms (AWS, Azure, GCP)  
-- Containerization (Docker, Kubernetes)  
-- Linux, Networking, and Automation  
+### 🧩 Interests
+- **Full-Stack Development** — designing and building complete web applications from front to back  
+- **Artificial Intelligence & Machine Learning** — exploring intelligent systems, automation, and data-driven decision-making  
+- **Digital Social Building** — creating meaningful online communities and impactful digital experiences 
 
 ---
 
-### 📫 How to reach me
+### 📱 How to reach me
 - **Email:** [hristo.georgievwv@gmail.com](mailto:hristo.georgievwv@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/hristogeorgiev03](https://www.linkedin.com/in/hristogeorgiev03)
 
 ---
 
-### ⚡ Fun Facts 
-- Big **F1 fan** 🚗
+### 🤓 Fun Facts 
+- Huge **F1 fan** 🚗
 
 
 ---
