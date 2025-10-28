@@ -2,7 +2,7 @@
 
 
 
-Currently studying **Information Technologies**. Always looking to collaborate on projects where I can **learn something new** and **improve my skills**.
+🎓 Pursuing Information Technologies, passionate about continuous learning and hands-on collaboration to sharpen my expertise.
 
 ---
 
@@ -26,4 +26,4 @@ Currently studying **Information Technologies**. Always looking to collaborate o
 ---
 
 ### 💼 My CV
-📄 [View my resume here](#) _(add your CV link when ready)_
+📄 [View my resume here](#) _(https://www.canva.com/design/DAGDDmvPdDc/NJStGAYsgSNOJ9Y8AefNHA/edit?utm_content=DAGDDmvPdDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)_
