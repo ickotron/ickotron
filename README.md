@@ -26,4 +26,4 @@
 ---
 
 ### 💼 My CV
-📄 [View my resume here]([https://www.canva.com/design/DAGDDmvPdDc/NJStGAYsgSNOJ9Y8AefNHA/edit?utm_content=DAGDDmvPdDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGDDmvPdDc/W89iJ4v4bw-YSAEAUwl4Lg/view?utm_content=DAGDDmvPdDc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h661cced619))  
+📄 [View my resume here](https://www.canva.com/design/DAGDDmvPdDc/W89iJ4v4bw-YSAEAUwl4Lg/view?utm_content=DAGDDmvPdDc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h661cced619)  
